@@ -76,6 +76,9 @@ Project license
 Dataset
 ... ... ...
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
 **Credits & References**
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
