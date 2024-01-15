@@ -8,7 +8,7 @@
       <a href="#project-overview">Proejct Overview</a>
     </li>
     <li><a href="#dataset">Dataset</a></li>
-    <li><a href="#credits-&-references">Credits & References</a></li>
+    <li><a href="#credits-and-references">Credits And References</a></li>
   </ol>
 </details>
 
@@ -88,10 +88,7 @@ Given the right set of data of a student population consisting of both college d
 ### Dataset
 ... ... ...
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-### Credits & References
+### Credits And References
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
 
