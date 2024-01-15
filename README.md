@@ -38,7 +38,12 @@ Given the right set of data of a student population consisting of both college d
 ...
 
 ### Project Flowchart
-    <img src="images\ProjectWorkFlow.jpg" width="80" height="80">
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/ProjectWorkFlow.jpg" width="1000" height="2000">
+    </a>
+</div>
 ...
 ...
 ...
