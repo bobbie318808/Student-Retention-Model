@@ -5,7 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">Proejct Overview</a>
     </li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -13,6 +13,8 @@
 
 
 
+<!-- Project Overview -->
+## Project Overview
 
 Student Retention Model
 =========================
@@ -69,8 +71,6 @@ Project landing page (this page)
 LICENSE
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 Project license
 Dataset
