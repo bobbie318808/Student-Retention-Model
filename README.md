@@ -43,6 +43,7 @@ Walkthrough Demo
 ... ... ...
 
 Project Flowchart
+    <img src="ProjectWorkFlow.pdf" width="80" height="80">
 
 
 Project Organization
