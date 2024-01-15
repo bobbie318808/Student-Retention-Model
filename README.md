@@ -7,7 +7,8 @@
     <li>
       <a href="#project-overview">Proejct Overview</a>
     </li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#dataset">Dataset</a></li>
+    <li><a href="#credits-&-references">Credits & References</a></li>
   </ol>
 </details>
 
@@ -84,7 +85,6 @@ Given the right set of data of a student population consisting of both college d
 * `LICENSE`
     - Project license
 
-### Dataset
 ### Dataset
 ... ... ...
 
