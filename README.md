@@ -1,8 +1,9 @@
 Student Retention Model
 =========================
 
-Project Overview:
-Identifying At-Risk Students for dropping out of college
+**Project Overview:**
+
+**Identifying At-Risk Students for dropping out of college**
 
 Given the right set of data of a student population consisting of both college drop outs and graduates, can we leverage predictive analytics to forecast student withdrawal actions?
 
@@ -53,5 +54,6 @@ Project license
 Dataset
 ... ... ...
 
-Credits & References
-... ... ...
+**Credits & References**
+
+Learnopoly College Dropout Rate Statistics (https://learnopoly.com/college-dropout-rate/#:~:text=Only%2027.6%25%20of%20students%20enrolled,%2Dtime%20students%20is%2030.9%25.)
