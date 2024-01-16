@@ -5,8 +5,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#project-overview">Proejct Overview</a>
+      <a href="#project-overview">Project Overview</a>
     </li>
+    <li><a href="#project-flowchart">Project Flowchart</a></li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#credits-and-references">Credits And References</a></li>
   </ol>
@@ -19,8 +20,6 @@
 
 Student Retention Model
 =========================
-
-## Project Overview
 
 **Identifying At-Risk Students for dropping out of college**
 
@@ -48,6 +47,7 @@ Given the right set of data of a student population consisting of both college d
 ...
 ...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Project Organization
