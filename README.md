@@ -18,7 +18,7 @@
 Student Retention Model
 =========================
 
-**Identifying At-Risk Students for dropping out of college**
+**Predicting student if they are at-risk of dropping out of college**
 
 Given the right set of data of a student population consisting of both college drop outs and graduates, can we leverage predictive analytics to forecast student withdrawal actions?
 
