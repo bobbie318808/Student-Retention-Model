@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +12,6 @@
   </ol>
 </details>
 
-
-
 <!-- Project Overview -->
 ## Project Overview
 
@@ -26,15 +23,8 @@ Student Retention Model
 Given the right set of data of a student population consisting of both college drop outs and graduates, can we leverage predictive analytics to forecast student withdrawal actions?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-.. 
-...
-...
 
-### Walkthrough Demo
-
-...
-...
-...
+<!-- ### Walkthrough Demo -->
 
 ### Project Flowchart
 <br />
@@ -52,12 +42,9 @@ Given the right set of data of a student population consisting of both college d
 
 ### Project Organization
 
-...
-...
-...
-
 * `data` 
     - [PreData.csv](https://drive.google.com/file/d/1g-bVWHObcPFhSpUs4lNxAriqcH9iOHoS/view?usp=drive_link)
+    - [Data Dictionary](PreDataDataDictionary.xlsx)
 <!-- 
 * `model`
     - joblib dump of final model / model object -->
@@ -90,20 +77,18 @@ Given the right set of data of a student population consisting of both college d
     - Project license -->
 
 ### Dataset
-... ... ...
+    Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal or not.  
+    [Data Dictionary](PreDataDataDictionary.xlsx)
 
 ### Credits And References
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
-
-
 
 <!-- CONTACT -->
 ### Contact
 Bobbie318808 - bobbie318808@gmail.com
 
 Project Link: [https://github.com/bobbie318808/Student-Retention-Model](https://github.com/bobbie318808/Student-Retention-Model)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
