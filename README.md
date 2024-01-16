@@ -57,21 +57,20 @@ Given the right set of data of a student population consisting of both college d
 ...
 
 * `data` 
-    - contains link to copy of the dataset (stored in a publicly accessible Google Drive folder)
-    - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
-
+    - [PreData.csv](https://drive.google.com/file/d/1g-bVWHObcPFhSpUs4lNxAriqcH9iOHoS/view?usp=drive_link)
+<!-- 
 * `model`
-    - joblib dump of final model / model object
+    - joblib dump of final model / model object -->
 
 * `notebooks`
     - contains all final notebooks involved in the project
-
+<!-- 
 * `reports`
-    - contains final report which summarises the project
+    - contains final report which summarises the project -->
 
 * `references`
     - [Sprint 1 Presentation](CapstoneSprint1StudentRetentionModel.pptx)
-
+<!-- 
 * `src`
     - Contains the project source code (refactored from the notebooks)
 
@@ -83,12 +82,12 @@ Given the right set of data of a student population consisting of both college d
 
 * `Makefile`
     - Automation script for the project
-
+-->
 * `README.md`
     - Project landing page (this page)
-
+<!-- 
 * `LICENSE`
-    - Project license
+    - Project license -->
 
 ### Dataset
 ... ... ...
