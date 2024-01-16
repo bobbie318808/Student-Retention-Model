@@ -68,7 +68,7 @@ Given the right set of data of a student population consisting of both college d
     - Automation script for the project
 -->
 * `README.md`
-    - Project landing page (this page)
+    - [ReadMe](README.md)
 <!-- 
 * `LICENSE`
     - Project license -->
