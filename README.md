@@ -47,7 +47,7 @@ Given the right set of data of a student population consisting of both college d
     - joblib dump of final model / model object -->
 
 * `notebooks`
-    - contains all final notebooks involved in the project
+    - [Preliminary EDA](Sprint1PreliminaryEDA.ipynb)
 <!-- 
 * `reports`
     - contains final report which summarises the project -->
