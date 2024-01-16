@@ -70,7 +70,7 @@ Given the right set of data of a student population consisting of both college d
     - contains final report which summarises the project
 
 * `references`
-    - contains papers / tutorials used in the project
+    - [Sprint 1 Presentation](Capstone Sprint 1 - Student Success .pptx)
 
 * `src`
     - Contains the project source code (refactored from the notebooks)
