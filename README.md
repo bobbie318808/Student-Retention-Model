@@ -20,7 +20,12 @@ Student Retention Model
 
 **Predicting student if they are at-risk of dropping out of college**
 
+What if we can recognize clues and patterns that precede college student dropouts using data science and machine learning?
 Given the right set of data of a student population consisting of both college drop outs and graduates, can we leverage predictive analytics to forecast student withdrawal actions?
+When we study historical data of both kinds of student populations: - those that have discontinued their post-secondary education; - and also, those that have graduated and completed a degree; we hope to identify related factors and challenges for at-risk students.   
+
+Addressing proactively the challenges faced by these students is the key!
+Having early identification allows for a timely intervention and implement support strategies so students can overcome academic challenges and succeed in their education journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
