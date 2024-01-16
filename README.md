@@ -80,6 +80,7 @@ Given the right set of data of a student population consisting of both college d
 ### Credits And References
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
+* [Educationdata.org College Dropout Rates](https://educationdata.org/college-dropout-rates)
 
 <!-- CONTACT -->
 ### Contact
