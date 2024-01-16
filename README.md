@@ -98,5 +98,12 @@ Given the right set of data of a student population consisting of both college d
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
 
 
+
+<!-- CONTACT -->
+### Contact
+Bobbie318808 - bobbie318808@gmail.com
+Project Link: [https://github.com/bobbie318808/Student-Retention-Model](https://github.com/bobbie318808/Student-Retention-Model)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
