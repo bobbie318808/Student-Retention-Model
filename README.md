@@ -35,7 +35,7 @@ Having early identification allows for a timely intervention and implement suppo
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/CapstoneSprint1_ Project Work Flow.jpg" width="600" height="1000">
+    <img src="images/CapstoneSprint1_ Project Work Flow.jpg" width="300" height="500">
     </a>
 </div>
 
