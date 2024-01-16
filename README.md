@@ -74,7 +74,9 @@ Given the right set of data of a student population consisting of both college d
     - Project license -->
 
 ### Dataset
-    Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal or not.  
+
+Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal or not. 
+
 
 ### Credits And References
 
