@@ -83,11 +83,5 @@ Historical anonymized data of enrolled students spanning 10 years containing som
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
 * [Educationdata.org College Dropout Rates](https://educationdata.org/college-dropout-rates)
 
-<!-- CONTACT -->
-### Contact
-Bobbie318808 - bobbie318808@gmail.com
-
-Project Link: [https://github.com/bobbie318808/Student-Retention-Model](https://github.com/bobbie318808/Student-Retention-Model)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
