@@ -102,6 +102,7 @@ Given the right set of data of a student population consisting of both college d
 <!-- CONTACT -->
 ### Contact
 Bobbie318808 - bobbie318808@gmail.com
+
 Project Link: [https://github.com/bobbie318808/Student-Retention-Model](https://github.com/bobbie318808/Student-Retention-Model)
 
 
