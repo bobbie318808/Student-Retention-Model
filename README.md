@@ -80,7 +80,7 @@ Having early identification allows for a timely intervention and implement suppo
 
 ### Dataset
 
-Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal or not.
+Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal.
 
 
 ### Credits And References
