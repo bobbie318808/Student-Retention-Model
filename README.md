@@ -34,7 +34,7 @@ Having early identification allows for a timely intervention and implement suppo
 ### Project Flowchart
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a>
     <img src="images/CapstoneSprint1_ Project Work Flow.jpg" width="300" height="500">
     </a>
 </div>
