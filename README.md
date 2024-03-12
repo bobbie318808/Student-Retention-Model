@@ -52,15 +52,15 @@ Having early identification allows for a timely intervention and implement suppo
     - joblib dump of final model / model object -->
 
 * `notebooks`
-    - [Sprint 1 Preliminary EDA](Sprint1PreliminaryEDA.ipynb)
-    - [Sprint 2](CapstoneSprint2.ipynb)
+    - [Sprint 1 Preliminary EDA](notebooks/Sprint1PreliminaryEDA.ipynb)
+    - [Sprint 2](notebooks/CapstoneSprint2.ipynb)
 <!-- 
 * `reports`
     - contains final report which summarises the project -->
 
 * `references`
-    - [Sprint 1 Presentation Slides](CapstoneSprint1StudentRetentionModel.pptx)
-    - [Sprint 2 Presentation Slides](CapstoneSprint2StudentRetentionModel.pptx)
+    - [Sprint 1 Presentation Slides](slides/CapstoneSprint1StudentRetentionModel.pptx)
+    - [Sprint 2 Presentation Slides](slides/CapstoneSprint2StudentRetentionModel.pptx)
 <!-- 
 * `src`
     - Contains the project source code (refactored from the notebooks)
@@ -89,7 +89,7 @@ Historical anonymized data of enrolled students spanning 10 years containing som
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
 * [Educationdata.org College Dropout Rates](https://educationdata.org/college-dropout-rates)
-* [Data Source: Predict Studentsl Dropout and Academic Success] (https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+* [Data Source: Predict Studentsl Dropout and Academic Success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
