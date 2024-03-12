@@ -46,7 +46,7 @@ Having early identification allows for a timely intervention and implement suppo
 <a name="data"></a>
 * `data` 
     - [Data.csv](https://drive.google.com/file/d/1g-bVWHObcPFhSpUs4lNxAriqcH9iOHoS/view?usp=drive_link)
-    - [Data Dictionary](DataDataDictionary.xlsx)
+    - [Data Dictionary](Data/DataDictionary.xlsx)
 <!-- 
 * `model`
     - joblib dump of final model / model object -->
