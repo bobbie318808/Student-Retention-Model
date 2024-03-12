@@ -89,7 +89,7 @@ Historical anonymized data of enrolled students spanning 10 years containing som
 
 * [Learnopoly College Dropout Rate Statistics](https://learnopoly.com/college-dropout-rate/)
 * [Educationdata.org College Dropout Rates](https://educationdata.org/college-dropout-rates)
-* [Data Source: Predict Studentsl Dropout and Academic Success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+* [Data Source: Predict Students Dropout and Academic Success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
