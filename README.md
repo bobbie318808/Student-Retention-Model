@@ -84,7 +84,7 @@ Having early identification allows for a timely intervention and implement suppo
 
 Historical anonymized data of enrolled students spanning 10 years containing some features about the student that will hopefully support insights on the predictability of academic withdrawal.
 
-| Variable Name                                  | Type          | Demographic                                                             |
+| Variable Name                                  | Type          | Description                                                            |
 |------------------------------------------------|---------------|------------------------------------------------------------------------|
 | Admission grade                                | Continuous    | Admission grade (between 0 and 200)                                    |
 | Age at enrollment                              | Integer       | Age of student at enrollment                                           |
