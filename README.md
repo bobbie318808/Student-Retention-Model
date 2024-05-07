@@ -54,6 +54,7 @@ Having early identification allows for a timely intervention and implement suppo
 * `notebooks`
     - [Sprint 1 Preliminary EDA](notebooks/Sprint1PreliminaryEDA.ipynb)
     - [Sprint 2](notebooks/CapstoneSprint2.ipynb)
+    - [Sprint 3](notebooks/CapstoneSprint3.ipynb)
 <!-- 
 * `reports`
     - contains final report which summarises the project -->
@@ -61,6 +62,7 @@ Having early identification allows for a timely intervention and implement suppo
 * `references`
     - [Sprint 1 Presentation Slides](slides/CapstoneSprint1StudentRetentionModel.pptx)
     - [Sprint 2 Presentation Slides](slides/CapstoneSprint2StudentRetentionModel.pptx)
+    - [Sprint 3 Presentation Slides](slides/CapstoneSprint3StudentRetentionModel.pptx)
 <!-- 
 * `src`
     - Contains the project source code (refactored from the notebooks)
