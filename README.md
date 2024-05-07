@@ -35,7 +35,7 @@ Having early identification allows for a timely intervention and implement suppo
 <br />
 <div align="center">
   <a>
-    <img src="images/CapstoneSprint1_ Project Work Flow.jpg" width="300" height="500">
+    <img src="images/CapstoneSprint3_ Project Work Flow.jpg" width="300" height="500">
     </a>
 </div>
 
