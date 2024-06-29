@@ -25,7 +25,7 @@ Given the right set of data of a student population consisting of both college d
 When we study historical data of both kinds of student populations: - those that have discontinued their post-secondary education; - and also, those that have graduated and completed a degree; we hope to identify related factors and challenges for at-risk students.   
 
 Addressing proactively the challenges faced by these students is the key!
-Having early identification allows for a timely intervention and implement support strategies so students can overcome academic challenges and succeed in their education journey.
+Having early identification allows for a timely intervention and implement support strategies so students can overcome challenges and succeed in their education journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
